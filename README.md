@@ -1,2 +1,2 @@
 # 2020_GenSpecCTCog
-Code for "General and Specific CorticalThickness-Cognition Associations in First-Episode Psychosis"
+Code for "Global and regional cortical thickness associations with general and domain-specific cognition in first-episode psychosis"
