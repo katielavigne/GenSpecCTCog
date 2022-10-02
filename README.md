@@ -1,4 +1,4 @@
-# 2020_GenSpecCTCog
+# GenSpecCTCog
 Code for "General and specific cortical thickness-cognition associations in first-episode psychosis". Uses [CivetSurf](https://github.com/katielavigne/civetsurf).
 
 Pre-print: https://psyarxiv.com/ye3jx
